@@ -41,5 +41,5 @@ By visualizing portfolio performance, it’s easier to:
 
 ## 📬 Contact
 Created by **Qamar Mehmood**  
-📧 Email: *(your email here)*  
-💼 LinkedIn: *(your LinkedIn here)*  
+📧 Email: *(qamarmehmood533@gmail.com)*  
+💼 LinkedIn: *(https://www.linkedin.com/in/qamarmehmood5/)*  
