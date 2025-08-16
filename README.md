@@ -1,5 +1,6 @@
 # Tableau Stock Performance Dashboard
-
+<img width="1325" height="670" alt="Dashboard_" src="https://github.com/user-attachments/assets/c891a73c-464a-4f66-a0ed-cafa89556693" />
+Live on Tableau public: https://public.tableau.com/app/profile/qamar.mehmood/viz/Stock_Dashboard_17550654188440/Dashboard1
 This project is my **second Tableau dashboard**, created to track and analyze stock performance.  
 It visualizes portfolio value, ROI, top gainers/losers, and highlights important lessons in diversification and risk management.
 
